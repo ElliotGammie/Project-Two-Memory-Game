@@ -16,7 +16,6 @@ The game ends once all cards have been correctly matched.
 
 Game Functionality
 
-![Overview of Webpage](overview.PNG)
 
 ## Why this Project?
 
